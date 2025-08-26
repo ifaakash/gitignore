@@ -1,2 +1,2 @@
 # Gitignore file list for different Tech
-[Link with title](https://github.com/github/gitignore "Github Gitignore file list")
+[Github Gitignore file list](https://github.com/github/gitignore "Github Gitignore file list")
